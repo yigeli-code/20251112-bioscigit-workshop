@@ -1,0 +1,31 @@
+---
+title: "Julia Yige Li"
+subtitle: "Travel Frog"
+image: https://media.licdn.com/dms/image/v2/D5603AQGZxVbl_VrjTg/profile-displayphoto-crop_800_800/B56ZmQhz0WKEAI-/0/1759066409444?e=1764806400&v=beta&t=nkMtVHNxrZY_S7fKRlv9iy5kRh3iLaa1wdUVMRvHbSY
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../travellers.html">Travellers</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+
+Welcome to the real world!
+
+## Travelled cities
+
+- Jeju
+- Edinburgh
+- Singapore
